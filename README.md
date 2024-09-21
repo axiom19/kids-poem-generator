@@ -1,6 +1,6 @@
 # Kids Poem Generator 🎨📜🎶
 
-![Kids Poem Generator](assets/kids_poem.png)
+![Kids Poem Generator](assets/poem.png)
 
 Welcome to the **Kids Poem Generator**, an AI-powered application designed to inspire creativity and joy in children through personalized poetry and music. This tool allows kids to generate unique, rhyming poems based on a single word and select their preferred language. The poems are then transformed into engaging audio files, complete with soothing background music, making storytelling fun and interactive.
 
@@ -27,7 +27,8 @@ Welcome to the **Kids Poem Generator**, an AI-powered application designed to in
 
 ## 🎥 Demo
 
-![Demo Screenshot](assets/demo_screenshot.png)
+![Demo Screenshot](assets/demo.png)
+![Demo Video](assets/demo_mov.mp4)
 
 *Note: Replace the above image with actual screenshots of your application.*
 
