@@ -1,4 +1,4 @@
-# Kids Poem Generator 🎨📜🎶
+# Multilingual Storyteller AI for Children 🎨📜🎶
 
 ![Kids Poem Generator](assets/Poem.png)
 
